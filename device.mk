@@ -1,6 +1,6 @@
 
 #
-# Copyright (C) 2018 The LineageOS Project
+# Copyright (C) 2018 The risingOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -396,7 +396,7 @@ PRODUCT_COPY_FILES += \
 
 # LiveDisplay
 PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.1-service.sony
+    vendor.rising.livedisplay@2.1-service.sony
 
 # Net
 PRODUCT_PACKAGES += \
@@ -527,7 +527,7 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
 
 # Touch
 PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.sony
+    vendor.rising.touch@1.0-service.sony
 
 # Update engine
 PRODUCT_PACKAGES += \

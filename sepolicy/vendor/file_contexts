@@ -31,8 +31,8 @@
 /(vendor|system/vendor|odm|vendor/odm)/bin/hw/android\.hardware\.biometrics\.fingerprint@2\.1-service-rbs   u:object_r:hal_fingerprint_default_exec:s0
 /(vendor|system/vendor|odm|vendor/odm)/bin/hw/vendor\.semc\.hardware\.extlight-service\.somc                u:object_r:hal_light_default_exec:s0
 /vendor/bin/hw/vendor\.qti\.hardware\.vibrator-service\.sony                                                u:object_r:hal_vibrator_default_exec:s0
-/(vendor|system/vendor)/bin/hw/vendor\.lineage\.livedisplay@2\.1-service\.sony                              u:object_r:hal_lineage_livedisplay_qti_exec:s0
-/(vendor|system/vendor)/bin/hw/vendor\.lineage\.touch@1\.0-service\.sony                                    u:object_r:hal_lineage_touch_default_exec:s0
+/(vendor|system/vendor)/bin/hw/vendor\.rising\.livedisplay@2\.1-service\.sony                              u:object_r:hal_rising_livedisplay_qti_exec:s0
+/(vendor|system/vendor)/bin/hw/vendor\.rising\.touch@1\.0-service\.sony                                    u:object_r:hal_rising_touch_default_exec:s0
 /(vendor|system/vendor)/bin/hw/android\.hardware\.nfc-service\.nxp    u:object_r:hal_nfc_default_exec:s0
 
 # Power

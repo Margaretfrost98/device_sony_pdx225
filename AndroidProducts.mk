@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2018-2019 The LineageOS Project
+# Copyright (C) 2018-2019 The risingOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_pdx225.mk
+    $(LOCAL_DIR)/rising_pdx225.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_pdx225-user \
-    lineage_pdx225-userdebug \
-    lineage_pdx225-eng
+    rising_pdx225-user \
+    rising_pdx225-userdebug \
+    rising_pdx225-eng
